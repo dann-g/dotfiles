@@ -1,0 +1,56 @@
+2023-03-30 22:32:52.949 [info] Log level: Info
+2023-03-30 22:32:52.949 [info] Validating found git in: "git"
+2023-03-30 22:32:52.949 [info] Using git "2.39.2" from "git"
+2023-03-30 22:51:13.453 [info] Log level: Info
+2023-03-30 22:51:13.453 [info] Validating found git in: "git"
+2023-03-30 22:51:13.453 [info] Using git "2.39.2" from "git"
+2023-03-30 22:51:13.461 [info] > git rev-parse --show-toplevel [7ms]
+2023-03-30 22:51:13.467 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-03-30 22:51:13.473 [info] Open repository: /home/dmmt/Software_Devlopment/Internal/prototypes/drophi
+2023-03-30 22:51:13.480 [info] No remotes found in the git config file.
+2023-03-30 22:51:13.482 [info] > git config --get commit.template [5ms]
+2023-03-30 22:51:13.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-03-30 22:51:13.487 [info] > git status -z -uall [2ms]
+2023-03-30 22:51:13.493 [info] > git config --get commit.template [1ms]
+2023-03-30 22:51:13.496 [info] No remotes found in the git config file.
+2023-03-30 22:51:13.497 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-03-30 22:51:13.500 [info] > git status -z -uall [0ms]
+2023-03-30 22:51:13.987 [info] > git check-ignore -v -z --stdin [1ms]
+2023-03-30 22:58:09.224 [info] > git check-ignore -v -z --stdin [192ms]
+2023-03-30 22:58:09.591 [info] No remotes found in the git config file.
+2023-03-30 22:58:09.593 [info] > git config --get commit.template [12ms]
+2023-03-30 22:58:09.594 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-03-30 22:58:09.605 [info] > git status -z -uall [2ms]
+2023-04-01 14:57:06.974 [info] Log level: Info
+2023-04-01 14:57:06.974 [info] Validating found git in: "git"
+2023-04-01 14:57:06.974 [info] Using git "2.39.2" from "git"
+2023-04-01 14:57:06.974 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 14:57:06.974 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-01 14:57:25.180 [info] > git rev-parse --show-toplevel [7ms]
+2023-04-01 14:57:25.180 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-01 20:28:43.711 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 20:28:43.712 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-01 20:28:46.398 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 20:28:46.398 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-04-01 20:29:42.438 [info] Log level: Info
+2023-04-01 20:29:42.438 [info] Validating found git in: "git"
+2023-04-01 20:29:42.438 [info] Using git "2.39.2" from "git"
+2023-04-01 20:29:42.438 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 20:29:42.438 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-01 20:29:42.438 [info] Open repository: /home/dmmt/Software_Devlopment/Internal/prototypes/drophi
+2023-04-01 20:29:42.438 [info] > git config --get commit.template [185ms]
+2023-04-01 20:29:42.438 [info] No remotes found in the git config file.
+2023-04-01 20:29:42.643 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [206ms]
+2023-04-01 20:29:42.660 [info] > git status -z -uall [9ms]
+2023-04-01 20:29:42.672 [info] > git config --get commit.template [1ms]
+2023-04-01 20:29:42.677 [info] No remotes found in the git config file.
+2023-04-01 20:29:42.678 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 20:29:42.687 [info] > git status -z -uall [1ms]
+2023-04-01 20:29:42.787 [info] > git check-ignore -v -z --stdin [4ms]
+2023-04-02 01:18:14.052 [info] > git show --textconv :README.MD [5ms]
+2023-04-02 01:18:14.053 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/README.MD [1ms]
+2023-04-02 01:18:14.056 [info] > git cat-file -s 7e5cc79616ec55e3ab8bb83c5fd262d85440142b [0ms]

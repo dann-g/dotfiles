@@ -1,0 +1,172 @@
+2023-04-02 12:11:34.350 [info] Log level: Info
+2023-04-02 12:11:34.350 [info] Validating found git in: "git"
+2023-04-02 12:11:34.350 [info] Using git "2.39.2" from "git"
+2023-04-02 12:11:34.350 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-02 12:11:34.350 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-02 12:11:34.350 [info] Open repository: /home/dmmt/Software_Devlopment/Internal/prototypes/drophi
+2023-04-02 12:11:34.350 [info] No remotes found in the git config file.
+2023-04-02 12:11:34.350 [info] > git config --get commit.template [3ms]
+2023-04-02 12:11:34.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 12:11:34.350 [info] > git status -z -uall [3ms]
+2023-04-02 12:11:34.350 [info] No remotes found in the git config file.
+2023-04-02 12:11:34.350 [info] > git config --get commit.template [2ms]
+2023-04-02 12:11:34.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-02 12:11:34.350 [info] > git status -z -uall [1ms]
+2023-04-02 12:11:34.746 [info] > git check-ignore -v -z --stdin [2ms]
+2023-04-02 12:36:47.147 [info] > git show --textconv :README.MD [10ms]
+2023-04-02 12:36:47.148 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/README.MD [7ms]
+2023-04-02 12:36:47.159 [info] > git cat-file -s 7e5cc79616ec55e3ab8bb83c5fd262d85440142b [8ms]
+2023-04-02 12:36:47.796 [info] > git config --get commit.template [4ms]
+2023-04-02 12:36:47.797 [info] No remotes found in the git config file.
+2023-04-02 12:36:47.797 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 12:36:47.801 [info] > git status -z -uall [0ms]
+2023-04-02 12:37:07.032 [info] > git show --textconv :ree [3ms]
+2023-04-02 12:37:07.033 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/ree [1ms]
+2023-04-02 12:37:07.336 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 14:03:47.100 [info] No remotes found in the git config file.
+2023-04-02 14:03:47.100 [info] > git config --get commit.template [3ms]
+2023-04-02 14:03:47.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 14:03:47.104 [info] > git status -z -uall [1ms]
+2023-04-02 14:07:11.348 [info] > git show --textconv :ree [4ms]
+2023-04-02 14:07:11.348 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/ree [1ms]
+2023-04-02 14:07:17.276 [info] No remotes found in the git config file.
+2023-04-02 14:07:17.281 [info] > git config --get commit.template [5ms]
+2023-04-02 14:07:17.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 14:07:17.285 [info] > git status -z -uall [0ms]
+2023-04-02 14:07:24.971 [info] > git show --textconv :README.MD [3ms]
+2023-04-02 14:07:24.972 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/README.MD [1ms]
+2023-04-02 14:07:24.975 [info] > git cat-file -s 7e5cc79616ec55e3ab8bb83c5fd262d85440142b [0ms]
+2023-04-02 14:16:18.210 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 14:16:18.477 [info] > git config --get commit.template [0ms]
+2023-04-02 14:16:18.483 [info] No remotes found in the git config file.
+2023-04-02 14:16:18.485 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 14:16:18.489 [info] > git status -z -uall [0ms]
+2023-04-02 14:20:23.193 [info] > git show --textconv :requirements.txt [3ms]
+2023-04-02 14:20:23.194 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/requirements.txt [1ms]
+2023-04-02 14:20:47.003 [info] No remotes found in the git config file.
+2023-04-02 14:20:47.004 [info] > git config --get commit.template [3ms]
+2023-04-02 14:20:47.005 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 14:20:47.009 [info] > git status -z -uall [1ms]
+2023-04-02 14:20:47.051 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 14:24:23.850 [info] > git show --textconv :.python-version [3ms]
+2023-04-02 14:24:23.851 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/.python-version [1ms]
+2023-04-02 14:24:34.284 [info] > git show --textconv :requirements.txt [3ms]
+2023-04-02 14:24:34.285 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/requirements.txt [1ms]
+2023-04-02 14:24:40.782 [info] No remotes found in the git config file.
+2023-04-02 14:24:40.782 [info] > git config --get commit.template [2ms]
+2023-04-02 14:24:40.783 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 14:24:40.786 [info] > git status -z -uall [1ms]
+2023-04-02 14:24:49.560 [info] No remotes found in the git config file.
+2023-04-02 14:24:49.560 [info] > git config --get commit.template [4ms]
+2023-04-02 14:24:49.560 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 14:24:49.564 [info] > git status -z -uall [1ms]
+2023-04-02 14:33:17.097 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 14:33:17.251 [info] No remotes found in the git config file.
+2023-04-02 14:33:17.252 [info] > git config --get commit.template [3ms]
+2023-04-02 14:33:17.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 14:33:17.255 [info] > git status -z -uall [1ms]
+2023-04-02 14:35:11.199 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 14:35:13.111 [info] > git show --textconv :venv/pyvenv.cfg [3ms]
+2023-04-02 14:35:13.112 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/venv/pyvenv.cfg [1ms]
+2023-04-02 14:35:20.461 [info] > git show --textconv :venv/.gitignore [2ms]
+2023-04-02 14:35:20.462 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/venv/.gitignore [1ms]
+2023-04-02 14:35:22.764 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 14:35:25.463 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 14:36:10.946 [info] No remotes found in the git config file.
+2023-04-02 14:36:10.946 [info] > git config --get commit.template [2ms]
+2023-04-02 14:36:10.946 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-02 14:36:10.950 [info] > git status -z -uall [1ms]
+2023-04-02 14:36:22.170 [info] > git show --textconv :requirements.txt [2ms]
+2023-04-02 14:36:22.171 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/requirements.txt [1ms]
+2023-04-02 14:47:42.021 [info] > git show --textconv :__main__.py [2ms]
+2023-04-02 14:47:42.022 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/__main__.py [1ms]
+2023-04-02 14:47:42.326 [info] > git check-ignore -v -z --stdin [0ms]
+2023-04-02 14:47:42.871 [info] No remotes found in the git config file.
+2023-04-02 14:47:42.872 [info] > git config --get commit.template [4ms]
+2023-04-02 14:47:42.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 14:47:42.875 [info] > git status -z -uall [1ms]
+2023-04-02 14:52:37.897 [info] No remotes found in the git config file.
+2023-04-02 14:52:37.897 [info] > git config --get commit.template [4ms]
+2023-04-02 14:52:37.897 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-02 14:52:37.901 [info] > git status -z -uall [1ms]
+2023-04-02 15:05:26.617 [info] No remotes found in the git config file.
+2023-04-02 15:05:26.618 [info] > git config --get commit.template [3ms]
+2023-04-02 15:05:26.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 15:05:26.623 [info] > git status -z -uall [1ms]
+2023-04-02 15:05:28.377 [info] > git show --textconv :requirements.txt [3ms]
+2023-04-02 15:05:28.378 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/requirements.txt [1ms]
+2023-04-02 15:05:53.255 [info] No remotes found in the git config file.
+2023-04-02 15:05:53.255 [info] > git config --get commit.template [3ms]
+2023-04-02 15:05:53.256 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 15:05:53.260 [info] > git status -z -uall [1ms]
+2023-04-02 15:06:57.192 [info] > git show --textconv :requirements.txt [3ms]
+2023-04-02 15:06:57.192 [info] > git ls-files --stage -- /home/dmmt/Software_Devlopment/Internal/prototypes/drophi/requirements.txt [0ms]
+2023-04-02 15:06:59.855 [info] No remotes found in the git config file.
+2023-04-02 15:06:59.855 [info] > git config --get commit.template [3ms]
+2023-04-02 15:06:59.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 15:06:59.860 [info] > git status -z -uall [1ms]
+2023-04-02 15:52:38.329 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 15:53:09.736 [info] No remotes found in the git config file.
+2023-04-02 15:53:09.737 [info] > git config --get commit.template [6ms]
+2023-04-02 15:53:09.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 15:53:09.745 [info] > git status -z -uall [2ms]
+2023-04-02 17:05:32.701 [info] No remotes found in the git config file.
+2023-04-02 17:05:32.703 [info] > git config --get commit.template [5ms]
+2023-04-02 17:05:32.703 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 17:05:32.712 [info] > git status -z -uall [2ms]
+2023-04-02 17:05:42.026 [info] No remotes found in the git config file.
+2023-04-02 17:05:42.027 [info] > git config --get commit.template [5ms]
+2023-04-02 17:05:42.027 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 17:05:42.035 [info] > git status -z -uall [2ms]
+2023-04-02 17:06:14.324 [info] No remotes found in the git config file.
+2023-04-02 17:06:14.324 [info] > git config --get commit.template [3ms]
+2023-04-02 17:06:14.324 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-02 17:06:14.328 [info] > git status -z -uall [1ms]
+2023-04-02 17:06:21.510 [info] No remotes found in the git config file.
+2023-04-02 17:06:21.511 [info] > git config --get commit.template [5ms]
+2023-04-02 17:06:21.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 17:06:21.516 [info] > git status -z -uall [1ms]
+2023-04-02 17:06:28.655 [info] No remotes found in the git config file.
+2023-04-02 17:06:28.656 [info] > git config --get commit.template [6ms]
+2023-04-02 17:06:28.656 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 17:06:28.662 [info] > git status -z -uall [1ms]
+2023-04-02 17:07:13.599 [info] No remotes found in the git config file.
+2023-04-02 17:07:13.600 [info] > git config --get commit.template [3ms]
+2023-04-02 17:07:13.601 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 17:07:13.604 [info] > git status -z -uall [1ms]
+2023-04-02 17:11:55.397 [info] No remotes found in the git config file.
+2023-04-02 17:11:55.397 [info] > git config --get commit.template [4ms]
+2023-04-02 17:11:55.398 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 17:11:55.403 [info] > git status -z -uall [2ms]
+2023-04-02 17:14:41.797 [info] No remotes found in the git config file.
+2023-04-02 17:14:41.798 [info] > git config --get commit.template [5ms]
+2023-04-02 17:14:41.798 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 17:14:41.804 [info] > git status -z -uall [2ms]
+2023-04-02 17:14:46.819 [info] No remotes found in the git config file.
+2023-04-02 17:14:46.819 [info] > git config --get commit.template [5ms]
+2023-04-02 17:14:46.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 17:14:46.824 [info] > git status -z -uall [1ms]
+2023-04-02 17:16:14.665 [info] No remotes found in the git config file.
+2023-04-02 17:16:14.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 17:16:14.667 [info] > git config --get commit.template [6ms]
+2023-04-02 17:16:14.673 [info] > git status -z -uall [2ms]
+2023-04-02 17:16:55.094 [info] No remotes found in the git config file.
+2023-04-02 17:16:55.100 [info] > git config --get commit.template [6ms]
+2023-04-02 17:16:55.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 17:16:55.106 [info] > git status -z -uall [1ms]
+2023-04-02 17:17:19.830 [info] No remotes found in the git config file.
+2023-04-02 17:17:19.831 [info] > git config --get commit.template [9ms]
+2023-04-02 17:17:19.831 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-02 17:17:19.838 [info] > git status -z -uall [1ms]
+2023-04-02 17:17:39.776 [info] No remotes found in the git config file.
+2023-04-02 17:17:39.776 [info] > git config --get commit.template [5ms]
+2023-04-02 17:17:39.776 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-02 17:17:39.785 [info] > git status -z -uall [1ms]
+2023-04-02 17:20:18.317 [info] No remotes found in the git config file.
+2023-04-02 17:20:18.318 [info] > git config --get commit.template [4ms]
+2023-04-02 17:20:18.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 17:20:18.322 [info] > git status -z -uall [1ms]
+2023-04-02 17:22:22.179 [info] No remotes found in the git config file.
+2023-04-02 17:22:22.179 [info] > git config --get commit.template [4ms]
+2023-04-02 17:22:22.179 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-02 17:22:22.183 [info] > git status -z -uall [1ms]

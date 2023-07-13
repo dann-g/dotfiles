@@ -1,0 +1,11 @@
+import cv2
+import numpy as np
+
+filepath_img_dir= "/home/dmmt/Software_Devlopment/Internal/dolphi/Wallpaper"
+## read_imgs(filepathtoimage): read images to an empty np array
+    
+if __name__ == '__main__':
+    print("Initiallizing Doplhi Color Engine")
+    filename = "yx77yl_cyberpunk_Cyberpunk:Edgerunners_Anime_Anime0Girls_Smoking.png"
+    image_path = filename+filepath_img_dir
+    img = cv2.imread(image_path)

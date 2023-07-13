@@ -1,0 +1,262 @@
+VSCodium (1.76.2, undefined, desktop)
+Jupyter Extension Version: 2023.3.100.
+Python Extension Version: 2023.4.1.
+Workspace folder /home/dmmt/Software_Devlopment/Internal/prototypes/drophi
+info 12:11:34.520: LSP Notebooks experiment is enabled
+warn 12:11:34.891: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 99ms
+error 12:11:34.892: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+info 12:11:34.895: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -m pip list
+> ~/.pyenv/versions/3.10.1/bin/python -m pip list
+info 17:22:26.792: Starting interactive window for resource '/home/dmmt/Software_Devlopment/Internal/prototypes/drophi/__main__.py' with controller '.jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher (Interactive)'
+warn 17:22:26.954: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 12ms
+error 17:22:26.954: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+info 17:22:26.962: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -m pip list
+> ~/.pyenv/versions/3.10.1/bin/python -m pip list
+info 17:22:27.535: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher (Python Path: , EnvType: Pyenv, EnvName: '', Version: 3.10.1 (main, Jun 23 2022, 17:10:49) [GCC 12.1.0]) for '/Interactive-1.interactive' (disableUI=false)
+warn 17:22:27.657: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 120ms
+warn 17:22:27.657: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 106ms
+warn 17:22:27.657: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 106ms
+error 17:22:27.658: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+error 17:22:27.658: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+error 17:22:27.658: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+info 17:22:27.666: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:22:27.708: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"92728b44-9609-404f-b278-ab343ff3934b" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/dmmt/.local/share/jupyter/runtime/kernel-v2-1704V8B97BVuNOhn.json
+> ~/.pyenv/versions/3.10.1/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"92728b44-9609-404f-b278-ab343ff3934b" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/dmmt/.local/share/jupyter/runtime/kernel-v2-1704V8B97BVuNOhn.json
+info 17:22:27.708: Process Execution: cwd: ~/Software_Devlopment/Internal/prototypes/drophi
+cwd: ~/Software_Devlopment/Internal/prototypes/drophi
+warn 17:22:27.716: Stderr output when getting ipykernel version & path Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'ipykernel' for /home/dmmt/.pyenv/versions/3.10.1/bin/python
+warn 17:22:27.722: StdErr from Kernel Process /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher
+
+error 17:22:27.725: Disposing kernel process due to an error [zp [Error]: The kernel died. Error: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/out/extension.node.js:17:58297)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/temp/jupyter/kernels/pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1/kernel.json',
+      interpreterPath: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      sysPrefix: '/home/dmmt/.pyenv/versions/3.10.1',
+      displayPath: [f],
+      envName: '',
+      displayName: '',
+      envType: 'Pyenv',
+      version: [Object],
+      uri: [f]
+    },
+    id: '.jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher\n'
+}
+error 17:22:27.730: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher
+
+info 17:22:27.730: Dispose Kernel process 24553.
+error 17:22:27.732: Kernel Launcher. launch, Class name = ah, completed in 196ms, has a falsy return value, Arg 1: {"id":".jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher","kernelSpec":{"specFile":"/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/temp/jupyter/kernels/pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1/kernel.json","interpreterPath":"/home/dmmt/.pyenv/versions/3.10.1/bin/python","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python 3","metadata":{"interpreter":{"path":"/home/dmmt/.pyenv/versions/3.10.1/bin/python"}},"env":{}},"interpreter":{"id":"/home/dmmt/.pyenv/versions/3.10.1/bin/python","sysPrefix":"/home/dmmt/.pyenv/versions/3.10.1","displayPath":"/home/dmmt/.pyenv/versions/3.10.1/bin/python","envName":"","displayName":"","envType":"Pyenv","version":{"major":3,"minor":10,"patch":1,"raw":"3.10.1 (main, Jun 23 2022, 17:10:49) [GCC 12.1.0]"},"path":"/home/dmmt/.pyenv/versions/3.10.1/bin/python"},"kind":"startUsingPythonInterpreter"}, Arg 2: 60000, Arg 3: "~/Software_Devlopment/Internal/prototypes/drophi/__main__.py", Arg 4: "~/Software_Devlopment/Internal/prototypes/drophi", Arg 5: <argument cannot be serialized for logging> [zp [Error]: The kernel died. Error: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/out/extension.node.js:17:58297)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/temp/jupyter/kernels/pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1/kernel.json',
+      interpreterPath: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      sysPrefix: '/home/dmmt/.pyenv/versions/3.10.1',
+      displayPath: [f],
+      envName: '',
+      displayName: '',
+      envType: 'Pyenv',
+      version: [Object],
+      uri: [f]
+    },
+    id: '.jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher\n'
+}
+error 17:22:27.733: Failed to connect raw kernel session: Error: The kernel died. Error: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+warn 17:22:27.734: Error occurred while trying to start the kernel, options.disableUI=false [zp [Error]: The kernel died. Error: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/out/extension.node.js:17:58297)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/temp/jupyter/kernels/pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1/kernel.json',
+      interpreterPath: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      sysPrefix: '/home/dmmt/.pyenv/versions/3.10.1',
+      displayPath: [f],
+      envName: '',
+      displayName: '',
+      envType: 'Pyenv',
+      version: [Object],
+      uri: [f]
+    },
+    id: '.jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher\n'
+}
+warn 17:22:27.734: Kernel Error, context = start [zp [Error]: The kernel died. Error: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/out/extension.node.js:17:58297)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/temp/jupyter/kernels/pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1/kernel.json',
+      interpreterPath: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      sysPrefix: '/home/dmmt/.pyenv/versions/3.10.1',
+      displayPath: [f],
+      envName: '',
+      displayName: '',
+      envType: 'Pyenv',
+      version: [Object],
+      uri: [f]
+    },
+    id: '.jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher\n'
+}
+warn 17:22:27.742: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 7ms
+error 17:22:27.742: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+info 17:22:27.747: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 17:22:27.760: installMissingDependencies /home/dmmt/.pyenv/versions/3.10.1/bin/python, ui.disabled=false for resource '/home/dmmt/Software_Devlopment/Internal/prototypes/drophi/__main__.py'
+warn 17:22:27.768: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 8ms
+error 17:22:27.768: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+info 17:22:27.773: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+warn 17:22:27.794: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 9ms
+error 17:22:27.794: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+info 17:22:27.801: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> ~/.pyenv/versions/3.10.1/bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 17:22:39.544: Dispose Kernel '/Interactive-1.interactive' associated with '/home/dmmt/Software_Devlopment/Internal/prototypes/drophi/__main__.py'
+error 17:22:39.545: Error in execution (get message for cell) [zp [Error]: The kernel died. Error: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/out/extension.node.js:17:58297)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/temp/jupyter/kernels/pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1/kernel.json',
+      interpreterPath: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      sysPrefix: '/home/dmmt/.pyenv/versions/3.10.1',
+      displayPath: [f],
+      envName: '',
+      displayName: '',
+      envType: 'Pyenv',
+      version: [Object],
+      uri: [f]
+    },
+    id: '.jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher\n'
+}
+warn 17:22:39.546: DataScience Error [zp [Error]: The kernel died. Error: /home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/out/extension.node.js:17:58297)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2023.3.100-universal/temp/jupyter/kernels/pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1/kernel.json',
+      interpreterPath: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/home/dmmt/.pyenv/versions/3.10.1/bin/python',
+      sysPrefix: '/home/dmmt/.pyenv/versions/3.10.1',
+      displayPath: [f],
+      envName: '',
+      displayName: '',
+      envType: 'Pyenv',
+      version: [Object],
+      uri: [f]
+    },
+    id: '.jvsc74a57bd0ceaac9b717309080d6093aee6a4fc359f377cacf9ae2e21cc76984fc72a381b1./home/dmmt/.pyenv/versions/3.10.1/python./home/dmmt/.pyenv/versions/3.10.1/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/dmmt/.pyenv/versions/3.10.1/bin/python: No module named ipykernel_launcher\n'
+}
+warn 17:22:39.575: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 28ms
+error 17:22:39.575: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
+info 17:22:39.583: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> ~/.pyenv/versions/3.10.1/bin/python -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 17:37:05.958: Shutting down notebooks for c27f205a-c4ff-4198-9025-af7793ce4c82
+info 17:37:05.958: Disposing HostJupyterExecution bff4ccd6-085c-4586-8ee5-94c7be48a27b
+info 17:37:05.958: Dispose Kernel '/Interactive-1.interactive' associated with '/home/dmmt/Software_Devlopment/Internal/prototypes/drophi/__main__.py'
+info 17:37:05.958: Disposing HostJupyterExecution bff4ccd6-085c-4586-8ee5-94c7be48a27b

@@ -1,0 +1,144 @@
+[Trace 19:57:25.533] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:25.534] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:25.535] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:25.537] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:25.581] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 1
+[Debug 19:57:25.582] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:25.652] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:25.848] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 1
+[Trace 19:57:34.758] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:34.759] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:34.896] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:34.897] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:35.090] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 3
+[Debug 19:57:35.090] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:35.145] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:35.240] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 3
+[Trace 19:57:35.851] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:35.851] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:36.039] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 4
+[Debug 19:57:36.040] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:36.092] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:36.190] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 4
+[Trace 19:57:36.458] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:36.459] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:36.644] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 5
+[Debug 19:57:36.644] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:36.795] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 5
+[Debug 19:57:36.795] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.321] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.321] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:37.491] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 6
+[Debug 19:57:37.492] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.555] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.556] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.710] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.711] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.893] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:37.894] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:38.080] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 9
+[Debug 19:57:38.080] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:38.111] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:38.111] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:38.297] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 10
+[Debug 19:57:38.297] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:38.348] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:38.447] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 10
+[Trace 19:57:38.629] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:38.629] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:38.817] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 11
+[Debug 19:57:38.818] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:38.869] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:39.000] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 11
+[Trace 19:57:39.999] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.000] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:40.186] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 12
+[Debug 19:57:40.186] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.232] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.232] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.368] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.368] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.537] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.537] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.689] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.690] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.883] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:40.883] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:41.070] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 17
+[Debug 19:57:41.071] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:41.122] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.149] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.150] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.290] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.290] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.476] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.476] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.611] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.611] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.710] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:41.711] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:41.899] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 22
+[Debug 19:57:41.899] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:42.049] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 22
+[Debug 19:57:42.049] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:59.502] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:59.502] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:57:59.696] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 23
+[Debug 19:57:59.697] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:57:59.847] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 23
+[Debug 19:57:59.847] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.115] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.115] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.143] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.144] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.340] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.341] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.450] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.450] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.596] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.597] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:58:02.785] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 28
+[Debug 19:58:02.785] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:58:02.836] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.846] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.846] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.994] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:02.994] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.134] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.135] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.263] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.264] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:58:03.453] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 32
+[Debug 19:58:03.453] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.503] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.504] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:58:03.695] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 33
+[Debug 19:58:03.695] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.845] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 33
+[Debug 19:58:03.845] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.923] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:03.924] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:58:04.115] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 34
+[Debug 19:58:04.115] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:04.266] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 34
+[Debug 19:58:04.266] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:04.806] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:04.807] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:58:04.995] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 35
+[Debug 19:58:04.996] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:05.146] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 35
+[Debug 19:58:05.146] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:05.914] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:05.915] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 19:58:06.103] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 36
+[Debug 19:58:06.103] TableOfContentsProvider: create - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:06.253] DocumentSymbolProvider: provideDocumentSymbols — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 36
+[Debug 19:58:06.254] LinkProvider: compute - file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 19:58:08.072] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 01:28:43.710] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 01:28:43.873] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 36
+[Trace 01:28:45.393] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 01:28:46.396] Server: connection.languages.diagnostics.on: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Debug 01:28:46.556] MdFoldingProvider: provideFoldingRanges — file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD 36
+[Trace 01:28:52.417] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD
+[Trace 01:28:52.417] VsCodeClientWorkspace: deleteDocument: file:///home/dmmt/Software_Devlopment/Public/releases/zlevay/README.MD

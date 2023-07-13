@@ -1,0 +1,4 @@
+2023-04-02 12:11:35.066 [info] Starting worker process with pid 1836 (type: fileWatcher, window: 1).
+2023-04-02 12:11:35.419 [info] Deleted from disk ms-toolsai.jupyter-renderers /home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-04-02 12:11:35.452 [info] Deleted from disk ms-toolsai.jupyter /home/dmmt/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal
+2023-04-02 12:11:35.487 [info] Deleted from disk ms-python.python /home/dmmt/.vscode-oss/extensions/ms-python.python-2023.4.0-universal

@@ -1,0 +1,26 @@
+file:///home/dmmt/Software_Devlopment/Internal/prototypes/drophi/README.MD {"mtime":1679728644269,"ctime":1679728644269,"size":925,"etag":"3aaqcpq8htq","orphaned":false,"typeId":""}
+#Dolphi
+Purpose: A custome script to enable  my linux machine to stay on fleek no
+matter the wallpaper. This script shall be able to deliver colors to all main
+navigational utilities upon startup and i3 restart.
+
+## Initial MVP Objectives:
+- [] Write change to colors of:
+	- [] kitty
+	- [] polybar
+	- [] dmenu
+	- [] file manager
+- [] Monitor trigger? How to Monitor trigger? What is the monitor trigger
+	would that be something in the logs?
+- [] Output five Sets of Color Codes  {(Kitty)} {(Starter-Page)} {(Polybar)} 
+{(Dmenu)} {(File Manager)}
+## Questions I Want Answers To:
+- How do I change dmenu colors with script>
+- What is the best scructure for this script?
+- Why use zsh, C or python? 
+- How do I change the file-manger colors?
+- How do I detect i3 restart?
+- When to write a daemon service?
+- How to calculate the color?
+- Start in pandas? 
+- What is the next steps to take further releases to be more polished? 
