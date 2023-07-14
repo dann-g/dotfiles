@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
-filenames=$(ls)
-for x in filenames
+dirnames=$(ls)
+
+
+for dir in ${!dirnames[@]};
+	do
+
+	done
 
 
