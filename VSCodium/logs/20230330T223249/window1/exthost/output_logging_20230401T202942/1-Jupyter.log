@@ -1,9 +1,0 @@
-VSCodium (1.76.2, undefined, desktop)
-Jupyter Extension Version: 2023.3.100.
-Python Extension Version: 2023.4.1.
-Workspace folder /home/dmmt/Software_Devlopment/Internal/prototypes/drophi
-info 20:29:42.635: LSP Notebooks experiment is enabled
-warn 20:29:42.909: Failed to get activated env vars with python /home/dmmt/.pyenv/versions/3.10.1/bin/python in 49ms
-error 20:29:42.910: Unable to determine site packages path for python /home/dmmt/.pyenv/versions/3.10.1/bin/python (Pyenv)
-info 20:29:42.919: Process Execution: > ~/.pyenv/versions/3.10.1/bin/python -m pip list
-> ~/.pyenv/versions/3.10.1/bin/python -m pip list
