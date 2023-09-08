@@ -3,26 +3,35 @@
 CONFIG_DIR="$HOME/.config"
 STORD_DIR="$HOME/dotfiles"
 
-STORD_NAMES=(${(f)"$(find ${STORD_DIR} -maxdepth 1)"})
+STORD_path=(${(f)"$(find ${STORD_DIR} -maxdepth 1)"})
+STORD_FILES=("${STORD_path[@]##*/}")
 DOT_NAMES=(${(f)"$(find ${CONFIG_DIR} -maxdepth 1)"})
-IGNORE_FILES=("/home/dmmt/dotfiles", "/home/dmmt/dotfiles/.git" ,"/home/dmmt/dotfiles/.gitignore", "/home/dmmt/dotfiles/README.MD","/home/dmmt/dotfiles/updating.sh")
+IGNORE_FILES=("/home/dmmt/dotfiles", "/home/dmmt/dotfiles/.git" 
+	,"/home/dmmt/dotfiles/.gitignore", 
+	"/home/dmmt/dotfiles/README.MD",
+	"/home/dmmt/dotfiles/updating.sh")
 
-typeset -A UPDATE_FILES=()
 ####helper functions####
 ####
-
+######
+#Okay now I realize I haven't though this out
+#
+#
+#
+#
+######
+######
 ###cleanning_Arry
 ###cleaning the STORD_NAMES array to prevent accidenyal of deleting files
-clean_arr(){
-	if 
+/*****
+clean_arr(){ 
 	for i in $DOT_NAMES;
 	do
-		DOT_c_FILE=$DOT_NAMES[i]
+		DOT_c_FILE=$DOT_NAMES[$i]
 		
-		if [[ $DOT_NAMES[i] = "$IGNORE_FILES[i]*" ]];
+		if [[ $DOT_NAMES[$i] = "$IGNORE_FILES[$i]*" ]];
 		then
-			unset $DOT_NAMES[i]
-			echo "${DOT_NAMES[i]}"
+			echo "${DOT_NAMES[$i]}"
 		fi
 	done
 }
