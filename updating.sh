@@ -6,6 +6,7 @@ STORD_DIR="$HOME/dotfiles"
 STORD_path=(${(f)"$(find ${STORD_DIR} -maxdepth 1)"})
 STORD_FILES=("${STORD_path[@]##*/}")
 DOT_NAMES=(${(f)"$(find ${CONFIG_DIR} -maxdepth 1)"})
+DOT_FILES=("${DOT_NAMES[@]##*/}")
 IGNORE_FILES=("/home/dmmt/dotfiles", "/home/dmmt/dotfiles/.git" 
 	,"/home/dmmt/dotfiles/.gitignore", 
 	"/home/dmmt/dotfiles/README.MD",
