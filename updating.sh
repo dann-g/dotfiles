@@ -28,8 +28,7 @@ IGNORE_FILES=("/home/dmmt/dotfiles", "/home/dmmt/dotfiles/.git"
 clean_arr(){ 
 	for i in $DOT_NAMES;
 	do
-		DOT_c_FILE=$DOT_NAMES[$i]
-		
+			
 		if [[ $DOT_NAMES[$i] = "$IGNORE_FILES[$i]*" ]];
 		then
 			echo "${DOT_NAMES[$i]}"
